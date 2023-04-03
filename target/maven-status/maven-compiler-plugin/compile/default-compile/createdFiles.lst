@@ -1,0 +1,3 @@
+com\example\springsecuritydemo\config\SecurityConfiguration.class
+com\example\springsecuritydemo\controller\LoginController.class
+com\example\springsecuritydemo\SpringSecurityDemoApplication.class
